@@ -4,9 +4,9 @@ Thanks for visiting my GitHub page. It's probably easy to see but I'm new to thi
 
 So take a look around, and get in touch if you have anything to ask or share. You can reach me here:
 
-[📧](kayla.crane@gmail.com)
-[Twitter](https://twitter.com/KaylaJCrane)
-[LinkedIn](https://www.linkedin.com/in/kaylacrane/)
+- [📧](kayla.crane@gmail.com)
+- [Twitter](https://twitter.com/KaylaJCrane)
+- [LinkedIn](https://www.linkedin.com/in/kaylacrane/)
 
 Thanks and happy coding!
 
