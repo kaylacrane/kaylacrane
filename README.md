@@ -10,3 +10,12 @@ So take a look around, and get in touch if you have anything to ask or share. Yo
 
 Thanks and happy coding!
 
+´´´
+function becomeProgrammer(kayla){
+    if (kayla === "very tired"){
+    return takeNap(kayla);
+    } else {
+    return writeCode(kayla);
+    }
+ }
+ ´´´
