@@ -7,6 +7,7 @@ So take a look around, and get in touch if you have anything to ask or share. Yo
 - [📧](mailto:kayla.crane@gmail.com)
 - [Twitter](https://twitter.com/KaylaJCrane)
 - [LinkedIn](https://www.linkedin.com/in/kaylacrane/)
+- [Codepen](https://codepen.io/kaylacrane/)
 
 Thanks and happy coding!
 
