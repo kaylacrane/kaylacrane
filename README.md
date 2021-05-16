@@ -2,14 +2,14 @@
 
 Thanks for visiting my GitHub page! 
 
-My name is Kayla and I started learning to code this year. In May 2020 I enrolled in a 💻 web development bootcamp. I may be new to the bizz but I'm proud of the progress I've made in the past few months and I'm excited to keep learning. 
+My name is Kayla and in May 2020 I enrolled in a 💻 web development bootcamp. Now I'm doing an internship with Amazon as a Software Development Engineer. I'm still new to all this but I'm proud of the progress I've made in the pastyear and I'm excited to keep learning. 
 
 📚 I'm currently studying: 📚
 
 - 🕹️ Game making with Vanilla JavaScript 
-- ⚛️ Redux
+- ♨️ Java
 - ✔️ Vue.js
-- 💄Styled components
+- ☁️ AWS
 
 So take a look around and get in touch if you have anything to ask or share. You can reach me here:
 
